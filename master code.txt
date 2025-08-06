@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>The Millenium Garment</title>
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body style="background-color:rgb(85, 15, 15); color:antiquewhite; font-family: 'Trebuchet MS', Arial, sans-serif;">
+
+    <div div id="menu" align="right" bgcolor="white" font-color="white"> 
+        <a href="/index.htm">HOME</a> 
+        <a href="/index.htm">PRODUCTS</a>
+        <a href="/about/contact_us.htm">CONTACT</a> 
+        <a href="/about/index.htm">ABOUT</a>
+
+    </div>
+    
+    <h1>Welcome to The Millenium Garment</h1>
+
+    <p style="color:chocolate; font-style:italic; font-size: medium;">
+        It's all about beauty, style, and elegance.
+    </p>
+
+    <h1>About Us</h1>
+
+    <p>
+        The Millenium Garment is a premier garment production company dedicated to redefining style and elegance through
+        high-quality, custom-designed clothing. Our sole purpose is to cater to a wide range of fashion needs by
+        creating a diverse collection of garments that suit every occasion and personality. From traditional attires
+        like the regal Agbada, which speaks of cultural pride and heritage, to sophisticated and stylish classic and
+        fancy suits tailored for the modern man or woman, we ensure every piece is crafted with precision and attention
+        to detail. Our repertoire extends to crafting distinguished Senator wears and Jonathan styles that exude class
+        and authority, making them ideal for both formal and semi-formal occasions.
+    </p>
+
+    <hr>
+
+    <p>
+        At The Millenium Garment, we pride ourselves on utilizing the finest fabrics and the latest techniques to
+        ensure durability and excellence in every product. Our team of highly skilled designers and tailors work
+        tirelessly to meet the diverse tastes of our customers, whether they desire a contemporary look or a traditional
+        outfit with a modern twist. With a deep commitment to customer satisfaction, we strive to deliver garments that
+        elevate confidence, celebrate individuality, and leave a lasting impression. At The Millenium Garment, we
+        believe every outfit tells a story, and we are here to help you tell yours.
+    </p>
+
+    <h1>Contact Us</h1>
+
+    <p>
+        Visit us at <a href="https://www.themilleniumgarments.com" target="_blank" style="color:lightblue;">The Millenium Garments Website</a>
+    </p>
+
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>The Millenium Garment</title>
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body style="background-color:rgb(85, 15, 15); color:antiquewhite; font-family: 'Trebuchet MS', Arial, sans-serif;">
+
+    <div div id="menu" align="right" bgcolor="white" font-color="white"> 
+        <a href="/index.htm">HOME</a> 
+        <a href="/index.htm">PRODUCTS</a>
+        <a href="/about/contact_us.htm">CONTACT</a> 
+        <a href="/about/index.htm">ABOUT</a>
+
+    </div>
+    
+    <h1>Welcome to The Millenium Garment</h1>
+
+    <p style="color:chocolate; font-style:italic; font-size: medium;">
+        It's all about beauty, style, and elegance.
+    </p>
+
+    <h1>About Us</h1>
+
+    <p>
+        The Millenium Garment is a premier garment production company dedicated to redefining style and elegance through
+        high-quality, custom-designed clothing. Our sole purpose is to cater to a wide range of fashion needs by
+        creating a diverse collection of garments that suit every occasion and personality. From traditional attires
+        like the regal Agbada, which speaks of cultural pride and heritage, to sophisticated and stylish classic and
+        fancy suits tailored for the modern man or woman, we ensure every piece is crafted with precision and attention
+        to detail. Our repertoire extends to crafting distinguished Senator wears and Jonathan styles that exude class
+        and authority, making them ideal for both formal and semi-formal occasions.
+    </p>
+
+    <hr>
+
+    <p>
+        At The Millenium Garment, we pride ourselves on utilizing the finest fabrics and the latest techniques to
+        ensure durability and excellence in every product. Our team of highly skilled designers and tailors work
+        tirelessly to meet the diverse tastes of our customers, whether they desire a contemporary look or a traditional
+        outfit with a modern twist. With a deep commitment to customer satisfaction, we strive to deliver garments that
+        elevate confidence, celebrate individuality, and leave a lasting impression. At The Millenium Garment, we
+        believe every outfit tells a story, and we are here to help you tell yours.
+    </p>
+
+    <h1>Contact Us</h1>
+
+    <p>
+        Visit us at <a href="https://www.themilleniumgarments.com" target="_blank" style="color:lightblue;">The Millenium Garments Website</a>
+    </p>
+
+</body>
+
+</html>
